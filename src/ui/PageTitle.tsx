@@ -3,7 +3,7 @@
 const PageTitle = () => {
     return (
         <div>
-            <h1>Musicfun player</h1>
+            <h1>Musicfun</h1>
         </div>
     );
 };
